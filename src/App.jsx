@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
+import heroImg from './assets/jesus.png'
+import reactLogo from './assets/jesus.png'
+import viteLogo from './assets/jesus.png'
 import './App.css'
 
 function App() {
@@ -19,7 +19,10 @@ function App() {
         <button
           type="button"
           className="counter"
-          onClick={() => setCount((count) => count + 1)}
+          onMouseEnter={() => setCount((count) => count + 1)}
+          //pasa el cursor y aumenta los count
+          //onclick presiona
+          //ondoubleclick presionar dos besee
         >
           Count is {count}
         </button>
