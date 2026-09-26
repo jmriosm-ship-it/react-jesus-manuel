@@ -14,7 +14,7 @@ function App() {
           <img src={heroImg} alt="Jesús" style={{ width: '150px' }} />
           <h1>Me presentacion</h1>
           <p>
-            PRIMER PROYECTO DE REACT
+            Bienvenido a mi sitio de presentación personal
             soy un estudiante de ing en sistemas y mi nombre es jesus manuel rios mejia y sueño con ser un desarollador de calidad
           </p>
         </div>
