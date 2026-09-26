@@ -11,9 +11,11 @@ function App() {
     <>
       <section id="center">
         <div>
+          <img src={heroImg} alt="Jesús" style={{ width: '150px' }} />
           <h1>HOLA MUNDO</h1>
           <p>
             PRIMER PROYECTO DE REACT
+            soy un estudiante de ing en sistemas y sueño con ser un desarollador de calidad
           </p>
         </div>
         <button

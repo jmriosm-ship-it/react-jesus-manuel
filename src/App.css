@@ -182,3 +182,21 @@
     border-right-color: var(--border);
   }
 }
+
+#center h1 {
+  font-family: 'Poppins', sans-serif;
+  color: #ff6b6b;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+#center p {
+  font-family: 'Poppins', sans-serif;
+  color: #6bc1ff;
+  font-size: 1.2rem;
+}
+
+#center {
+  background-color: #1a1a2e;
+  border-radius: 16px;
+}
