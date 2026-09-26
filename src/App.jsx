@@ -13,7 +13,7 @@ function App() {
         <div>
           <h1>HOLA MUNDO</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            PRIMER PROYECTO DE REACT
           </p>
         </div>
         <button
