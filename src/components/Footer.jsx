@@ -12,7 +12,7 @@ function Footer() {
       }}
     >
       <p style={{ margin: 0, fontSize: '1rem' }}>Jesús Manuel Ríos Mejía</p>
-      <p style={{ margin: '8px 0 0', opacity: 0.8 }}>© 2026 Gracias por visitar mi sitio</p>
+      <p style={{ margin: '8px 0 0', opacity: 0.8 }}>© 2026 Gracias por visitar mi sitios</p>
     </footer>
   )
 }

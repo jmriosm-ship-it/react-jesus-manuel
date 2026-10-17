@@ -4,6 +4,7 @@ import Tarjeta from './components/Tarjeta.jsx'
 import DatoCurioso from './components/DatoCurioso.jsx'
 import Footer from './components/Footer.jsx'
 import HolaMundo from './components/HolaMundo.jsx'
+
 import './App.css'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         background: '#f3f4f6',
       }}
     >
+      <HolaMundo />
       <Header />
       <Perfil />
 
