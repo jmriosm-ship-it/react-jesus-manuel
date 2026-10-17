@@ -3,16 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://jmriosm-ship-it.github.io/react-jesus-manuel",
+  "homepage": "https://jmriosm-ship-it.github.io/react-jesus-manuel",
   "scripts": {
     "dev": "vite",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages-d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages-d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
