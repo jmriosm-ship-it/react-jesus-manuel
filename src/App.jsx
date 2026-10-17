@@ -1,8 +1,8 @@
-import Header from './playground/header.jsx'
-import Perfil from './playground/Perfil.jsx'
-import Tarjeta from './playground/Tarjeta.jsx'
-import DatoCurioso from './playground/DatoCurioso.jsx'
-import Footer from './playground/Footer.jsx'
+import Header from './components/header.jsx'
+import Perfil from './components/Perfil.jsx'
+import Tarjeta from './components/Tarjeta.js'
+import DatoCurioso from './components/DatoCurioso.js'
+import Footer from './components/Footer.jsx'
 import './App.css'
 
 function App() {
