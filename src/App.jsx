@@ -3,6 +3,7 @@ import Perfil from './components/Perfil.jsx'
 import Tarjeta from './components/Tarjeta.jsx'
 import DatoCurioso from './components/DatoCurioso.jsx'
 import Footer from './components/Footer.jsx'
+import HolaMundo from './components/HolaMundo.jsx'
 import './App.css'
 
 function App() {
