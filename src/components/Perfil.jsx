@@ -1,5 +1,6 @@
 function Perfil() {
   return (
+    //Selection para los estilos de syles
     <section
       id="perfil"
       style={{
